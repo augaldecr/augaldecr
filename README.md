@@ -9,8 +9,6 @@
   - FrontEnd developer (ReactJS, VanillaJS)
   - Mobile Developer (React Native).
 
-- 🐍 I’m currently learning data science (**Python**, SQL, etc). 
-
 - 🏆 Among my main achievements I can mention:
   - Design, development, implementation and on-cloud (Azure) publication of the System for the collection of information on the assessment of learnings (**SIRIMEP 2022**) for the Ministry of Education (Costa Rica (MEP)) integrating it with other institutional platforms such as Integra2 and SABER (**Blazor WASM, ASP .NET API, Azure AAD Auth, Entity Framework, Graph API**).
   - Design, development, implementation and on-cloud (Azure) publication of the System for the collection of information on the assessment of learnings (**SIRIMEP 2021**) for the Ministry of Education (Costa Rica (MEP)), where, together with an excellent group of education professionals and under the leadership and support of Mrs. Ana Gabriela Castro, and I, in technichals matters, achieved the implementation and deployment of SIRIMEP at a national’s wide scale, which will generate data that will be used for the correct decisions making and actions for the good of education at Costa Rica (**Blazor WASM, ASP .NET API, Azure AAD Auth, Entity Framework, Graph API**).
