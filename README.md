@@ -4,12 +4,14 @@
 - 👨🏽‍🏫 I also teach courses about software development at the CENFOTEC university.
 
 - ⌨ I am a full stack developer: 
-  - ASP .NET (Blazor, MAUI, MVC, REST API, Entity Framework, Dapper, etc.)
-  - FrontEnd developer (ReactJS, VanillaJS)
-  - Mobile Developer (React Native)
+  - ASP .NET (Blazor, MVC, REST API, Entity Framework, Dapper, etc.)
+  - Fullstack (Typescript)
+  - FrontEnd developer (ReactJS, Vanilla)
+  - Mobile Developer (React Native, MAUI)
   - Python (Django) 
 
 - 🏆 Among my main achievements I can mention:
+- Development and deployment the "Agile Evaluation System" (Sistema de evaluación Ágil [SEA]) for the Department of Public Education in Costa Rica (MEP). This project utilized ReactJS with TypeScript, .Net Core, Azure SQL, Azure AAD, Azure FrontDoor, and other technologies. 
   - Design, development, implementation, and on-cloud (Azure) publication of the System for the collection of information on the assessment of learnings (**SIRIMEP 2022**) for the Ministry of Education (Costa Rica (MEP)) integrating it with other institutional platforms such as Integra2 and SABER (**Blazor WASM, ASP .NET API, Azure AAD Auth, Entity Framework, Graph API**).
   - Design, development, implementation, and on-cloud (Azure) publication of the System for the collection of information on the assessment of learnings (**SIRIMEP 2021**) for the Ministry of Education (Costa Rica (MEP)), where, together with an excellent group of education professionals and under the leadership and support of Mrs. Ana Gabriela Castro, and I, in technical matters, achieved the implementation and deployment of SIRIMEP at a national’s wide scale, which will generate data that will be used for the correct decisions making and actions for the good of education at Costa Rica (**Blazor WASM, ASP .NET API, Azure AAD Auth, Entity Framework, Graph API**).
   - Development, implementation and, on-premises, publication of the administrative module (Laravel [PHP]) for the educational mobile app: **AprendizApp**.
