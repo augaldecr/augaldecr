@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Alonso Ugalde
 
-- 💻 I’m currently working at the Department of Public Education, as an National Consultant. I advise, among other things, on issues of technology and information systems, applied to education. 
+- 💻 Experienced full stack engineer skilled in .NET, TypeScript, Python, Node, ReactJS and (Native). Led impactful SEA & SIRIMEP projects at Ministerio de Educación Pública, C.R., using cutting-edge tech.
 - 👨🏽‍🏫 I also teach courses about software development at the CENFOTEC university.
 
 - ⌨ I am a full stack developer: 
